@@ -1,8 +1,0 @@
-462525375635.dkr.ecr.ap-southeast-1.amazonaws.com/devops-bootcamp/dani21894
-NETWORK ID     NAME      DRIVER    SCOPE
-d8d9c6dff2aa   arena     bridge    local
-1eef044b04f6   bridge    bridge    local
-39f37a6a8cf5   host      host      local
-16973a08af2c   none      null      local
-DRIVER    VOLUME NAME
-local     me
