@@ -5,3 +5,4 @@ aws ecr get-login-password --region ap-southeast-1 | docker login --username AWS
 docker build -t devops-bootcamp/dani21894 .
 docker tag devops-bootcamp/dani21894:latest 462525375635.dkr.ecr.ap-southeast-1.amazonaws.com/devops-bootcamp/dani21894:latest
 docker push 462525375635.dkr.ecr.ap-southeast-1.amazonaws.com/devops-bootcamp/dani21894:latest
+
